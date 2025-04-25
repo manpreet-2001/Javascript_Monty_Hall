@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 30px;
+  }
+  
+  .doors {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+  }
+  
+  .door {
+    font-size: 50px;
+    cursor: pointer;
+  }
+  
+  .buttons {
+    margin-top: 20px;
+    display: none;
+  }
+  
+  #message {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
