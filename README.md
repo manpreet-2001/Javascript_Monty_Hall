@@ -14,6 +14,7 @@ Choose to stay or switch.
 Find out if you win the car!
 
 **How to Use**
+
 Open index.html in a browser.
 
 Click a door to pick it.
